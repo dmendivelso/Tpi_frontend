@@ -8,7 +8,7 @@
       </parallax>
       <div class="container" style="top: 10% !important">
         <div class="content-center brand">
-          <img class="n-logo" src="img/now-logo.png" alt="" />
+          <img class="n-logo" src="img/logo-tpi-wt.png" alt="" />
           <h1 class="h1-seo">PET Data collector.</h1>
           <h3>
             Aplicacion para recoleccion de datos dobre el reciclaje de PET
@@ -17,7 +17,7 @@
             <div class="row" style="margin-top: 5em">
               <div class="col-md-6">
                 <div class="team-player">
-                  <router-link to="/">
+                  <router-link to="/register">
                     <n-button type="primary" size="lg"
                       >Registro</n-button
                     ></router-link
@@ -122,4 +122,8 @@ export default {
   },
 };
 </script>
-<style scoped></style>
+<style scoped>
+.n-logo {
+  max-width: 150px;
+}
+</style>

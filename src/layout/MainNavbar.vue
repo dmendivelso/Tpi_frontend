@@ -34,7 +34,7 @@
         </nav-link>
       </li>
       <li class="nav-item">
-        <nav-link class="nav-link white" to="/">
+        <nav-link class="nav-link white" to="/register">
           <i class="now-ui-icons business_chart-pie-36"></i> Registro
         </nav-link>
       </li>
