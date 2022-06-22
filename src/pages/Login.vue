@@ -28,13 +28,15 @@
 
             <template slot="raw-content">
               <div class="card-footer text-center">
-                <a href="#" class="btn btn-primary btn-round btn-lg btn-block"
+                <a
+                  href="#/profile"
+                  class="btn btn-primary btn-round btn-lg btn-block"
                   >Ingreso</a
                 >
               </div>
               <div class="pull-left">
                 <h6>
-                  <a href="#pablo" class="link footer-link">Crear cuenta</a>
+                  <a href="#/register" class="link footer-link">Crear cuenta</a>
                 </h6>
               </div>
               <!-- <div class="pull-right">

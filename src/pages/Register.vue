@@ -68,7 +68,9 @@
 
             <template slot="raw-content">
               <div class="card-footer text-center" style="width: 140%">
-                <a href="#" class="btn btn-primary btn-round btn-lg btn-block"
+                <a
+                  href="#/login"
+                  class="btn btn-primary btn-round btn-lg btn-block"
                   >Crear cuenta</a
                 >
               </div>
